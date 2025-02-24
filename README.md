@@ -37,7 +37,7 @@ I'm Harshit, a tech Enthusiast.
 ## 📈 Stats:
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitGupta2019&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitGupta2019s&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitGupta2019&theme=tokyonight" />
 </p>
 
 [![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitGupta2019&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
