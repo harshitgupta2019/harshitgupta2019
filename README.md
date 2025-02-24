@@ -29,11 +29,6 @@ I'm Harshit, a tech Enthusiast.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Cloud & Containerization:
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,8 +36,8 @@ I'm Harshit, a tech Enthusiast.
 
 ## 📈 Stats:
 <p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitGupta2019&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitGupta2019s&theme=tokyonight" />
 </p>
 
-[![harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitGupta2019&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitGupta2019&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
