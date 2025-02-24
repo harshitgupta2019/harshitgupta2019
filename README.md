@@ -6,7 +6,7 @@ I'm Harshit, a tech Enthusiast.
 - 🌱 I’m always fond of learning new concepts.
 - 👯 I want to contribute more in Open Source Projects.
 - 💬 Ask me about Python, javascript, Backend.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hargup3438@gmail.com)](mailto::hargup3438@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-HarshitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshit-gupta-526a9621a/)](https://linkedin.com/in/harshit-gupta-526a9621a/) [![Twitter Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/AbhishekKtwt)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-hargup3438@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hargup3438@gmail.com)](mailto::hargup3438@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-HarshitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/harshit-gupta-526a9621a/)](https://linkedin.com/in/harshit-gupta-526a9621a/)
 - 😄 Pronouns: He/Him.
 - ⚡ Free Time Activity: I love playing football, both on the field and on the screen. ⚽.
 
